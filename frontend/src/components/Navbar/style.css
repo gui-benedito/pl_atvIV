@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #e9e8e8;
+    width: 100%;
+    padding: 1em;
+}
+
+nav {
+    width: 65%;
+    margin: 0 auto;
+    display: flex;
+    column-gap: 1em;
+    padding: .8em 0;
+}

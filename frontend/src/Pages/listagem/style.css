@@ -1,0 +1,19 @@
+.card-body {
+    display: flex;
+    column-gap: 2em;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.coluna-nome {
+    width: 25em;
+}
+
+.icons {
+    display: flex;
+    column-gap: 2em;
+}
+
+.icon {
+    cursor: pointer;
+}
