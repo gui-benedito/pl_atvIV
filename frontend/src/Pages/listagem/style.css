@@ -17,3 +17,18 @@
 .icon {
     cursor: pointer;
 }
+
+@media (max-width: 560px){
+    .card-body {
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: start;
+    }
+    .icons {
+        width: 50%;
+        margin: 0 auto;
+    }
+    .card-body div {
+        width: fit-content;
+    }
+}
