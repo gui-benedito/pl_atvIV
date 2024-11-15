@@ -7,7 +7,7 @@ Repositório criado para atividade IV de técnicas de programação.
 
 <h3>1. Clone o repositório</h3>
 
-    git clone https://github.com/gui-benedito/pl_atvII.git
+    git clone https://github.com/gui-benedito/pl_atvIV.git
 
 <h3>2. Execute o backend</h3>
 
